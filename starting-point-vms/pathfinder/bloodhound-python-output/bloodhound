@@ -1,0 +1,13 @@
+INFO: Found AD domain: megacorp.local
+INFO: Connecting to LDAP server: Pathfinder.MEGACORP.LOCAL
+INFO: Found 1 domains
+INFO: Found 1 domains in the forest
+INFO: Found 1 computers
+INFO: Connecting to LDAP server: Pathfinder.MEGACORP.LOCAL
+INFO: Found 5 users
+INFO: Connecting to GC LDAP server: pathfinder.megacorp.local
+INFO: Found 51 groups
+INFO: Found 0 trusts
+INFO: Starting computer enumeration with 10 workers
+INFO: Querying computer: Pathfinder.MEGACORP.LOCAL
+INFO: Done in 00M 09S

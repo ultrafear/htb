@@ -1,0 +1,30 @@
+Starting masscan 1.0.5 (http://bit.ly/14GZzcT) at 2021-02-16 18:29:12 GMT
+ -- forced options: -sS -Pn -n --randomize-hosts -v --send-eth
+Initiating SYN Stealth Scan
+Scanning 1 hosts [65535 ports/host]
+Discovered open port 49665/tcp on 10.10.10.30                                  
+Discovered open port 49677/tcp on 10.10.10.30                                  
+rate:  0.99-kpps, 21.41% done,   0:01:36 remaining, found=2       
+Discovered open port 593/tcp on 10.10.10.30                                    
+Discovered open port 389/tcp on 10.10.10.30                                    
+Discovered open port 49667/tcp on 10.10.10.30                                  
+Discovered open port 49666/tcp on 10.10.10.30                                  
+Discovered open port 636/tcp on 10.10.10.30                                    
+Discovered open port 53/tcp on 10.10.10.30                                     
+Discovered open port 49714/tcp on 10.10.10.30                                  
+Discovered open port 3268/tcp on 10.10.10.30                                   
+Discovered open port 135/tcp on 10.10.10.30                                    
+Discovered open port 49671/tcp on 10.10.10.30                                  
+Discovered open port 464/tcp on 10.10.10.30                                    
+Discovered open port 47001/tcp on 10.10.10.30                                  
+Discovered open port 49676/tcp on 10.10.10.30                                  
+Discovered open port 5985/tcp on 10.10.10.30                                   
+Discovered open port 88/tcp on 10.10.10.30                                     
+Discovered open port 49683/tcp on 10.10.10.30                                  
+Discovered open port 9389/tcp on 10.10.10.30                                   
+Discovered open port 445/tcp on 10.10.10.30                                    
+Discovered open port 49695/tcp on 10.10.10.30                                  
+Discovered open port 139/tcp on 10.10.10.30                                    
+Discovered open port 3269/tcp on 10.10.10.30                                   
+Discovered open port 49664/tcp on 10.10.10.30                                  
+rate:  0.00-kpps, 100.00% done, waiting -10-secs, found=24
